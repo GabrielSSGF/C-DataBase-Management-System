@@ -13,11 +13,11 @@ This is a simple command-line database management system implemented in C. It al
 ## Usage
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/simple-c-database.git
+git clone https://github.com/GabrielSSGF/C-DataBase-Management-System
 ```
 Change to the project directory:
 ```bash
-cd simple-c-database
+cd C-DataBase-Management-System
 ```
 Compile the program:
 ```bash
