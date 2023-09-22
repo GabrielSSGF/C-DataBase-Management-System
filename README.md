@@ -21,7 +21,7 @@ cd simple-c-database
 ```
 Compile the program:
 ```bash
-gcc main.c -o database
+gcc bancoDeDados.c -o database
 ```
 Run the program:
 ```bash
